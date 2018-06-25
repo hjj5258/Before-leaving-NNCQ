@@ -4,13 +4,12 @@
 12月份实习，一个新的项目。
 1. 第一次接触到驱动领域设计的实现[(ABP)](http://aspnetboilerplate.com/)，很多新的概念
 2. 开发标准，开发流程，开发规范
-3. 使用很多组件，写组件的好处
+3. 使用很多组件，写组件的好处,EF正确的lambda表达式
 4. 接触到驱动领域基础概念实现的框架：[Util](https://github.com/dotnetcore/Util)
 5. 渗透测试的大致流程，[Tony的渗透测试知识体系](http://admintony.com/)
-6. 模仿框架Yz(理解概念，用于实践)
-7. 缺乏手机端的经验
-8. 缺陷：没有高并发数据量大的经验，计算机基础知识不足
-9. 资源的收集，整理(中国大学MOOC，慕课，阿里云课堂，网易云课堂)
-10. [微服务](https://studygolang.com/articles/11519)
+6. 模仿框架Yz(已实现：Entity|Repositories|EFCore与EF6x|未实现：IdentityServer4|Identity|AutoMapper|Log4Net|SignalR|MailKit|HangFire)
+7. 缺陷：没有高并发数据量大的经验，计算机基础知识不足,缺乏手机端的经验
+8. 资源的收集，整理(中国大学MOOC，慕课，阿里云课堂，网易云课堂,github)
+9. [微服务](https://studygolang.com/articles/11519)
 ---
 新的计划开启ing....
