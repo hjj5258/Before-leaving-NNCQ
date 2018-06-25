@@ -10,7 +10,7 @@
 6. 模仿框架Yz
     - 已实现：Entity | Repositories | EFCore | EF6x | Extensions
     - 未实现：IOC | IdentityServer4 | Identity | AutoMapper | Log4Net | SignalR | MailKit | HangFire
-7. 缺陷：没有高并发数据量大的经验，计算机基础知识不足,缺乏手机端的经验
+7. 缺陷：没有高并发数据量大的经验，计算机基础知识不足，缺乏手机端的经验
 8. 资源的收集，整理(中国大学MOOC，慕课，阿里云课堂，网易云课堂,github，好友的书籍)
 9. [微服务](https://studygolang.com/articles/11519)
 10. 
